@@ -1,0 +1,11 @@
+/Users/apineda/develop/misc/console-dotnet/bin/Debug/netcoreapp2.2/console-dotnet.deps.json
+/Users/apineda/develop/misc/console-dotnet/bin/Debug/netcoreapp2.2/console-dotnet.runtimeconfig.json
+/Users/apineda/develop/misc/console-dotnet/bin/Debug/netcoreapp2.2/console-dotnet.runtimeconfig.dev.json
+/Users/apineda/develop/misc/console-dotnet/bin/Debug/netcoreapp2.2/console-dotnet.dll
+/Users/apineda/develop/misc/console-dotnet/bin/Debug/netcoreapp2.2/console-dotnet.pdb
+/Users/apineda/develop/misc/console-dotnet/obj/Debug/netcoreapp2.2/console-dotnet.csprojAssemblyReference.cache
+/Users/apineda/develop/misc/console-dotnet/obj/Debug/netcoreapp2.2/console-dotnet.csproj.CoreCompileInputs.cache
+/Users/apineda/develop/misc/console-dotnet/obj/Debug/netcoreapp2.2/console-dotnet.AssemblyInfoInputs.cache
+/Users/apineda/develop/misc/console-dotnet/obj/Debug/netcoreapp2.2/console-dotnet.AssemblyInfo.cs
+/Users/apineda/develop/misc/console-dotnet/obj/Debug/netcoreapp2.2/console-dotnet.dll
+/Users/apineda/develop/misc/console-dotnet/obj/Debug/netcoreapp2.2/console-dotnet.pdb
